@@ -1,0 +1,8 @@
+After Installing all the requirments
+
+type cmd:
+1.heroku create
+    login withyour account
+2.git push heroku master
+3.heroku ps:scale web=1
+4.heroku open

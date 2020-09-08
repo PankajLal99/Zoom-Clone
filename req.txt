@@ -5,3 +5,6 @@ npm install twig
 npm install uuid
 npm install socket.io
 npm install peer
+npm install heroku
+
+// to install globaly use -g before pkg name example npm install -g heroku
